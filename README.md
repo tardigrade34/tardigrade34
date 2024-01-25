@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning node operating.
+I'm a node operator.
 
 
 ## 🌐 Socials:
